@@ -58,12 +58,11 @@ An **AI-driven CCTV surveillance system** designed specifically for classrooms, 
 
 ## **6. Technology Stack**
 
-* **Computer Vision Models:** YOLOv8, OpenCV, Mediapipe
-* **AI Behavior Recognition:** Action Recognition (LSTM + CNN models)
-* **Backend:** Python/Flask or Node.js
-* **Database:** MySQL/PostgreSQL
-* **Deployment:** Local edge server or cloud (AWS/GCP)
-* **Alerting System:** Twilio API, SMTP email integration
+React Native (Frontend)
+Flask (Backend)
+OpenCV (Computer Vision)
+SQLAlchemy (Database)
+Firebase Cloud Messaging (Push Notifications)
 
 ---
 
